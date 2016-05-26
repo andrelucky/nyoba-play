@@ -1,0 +1,1 @@
+INSERT INTO product(id, code, name) VALUES (1, 'TEST-001', 'Test Product');

@@ -1,0 +1,7 @@
+CREATE TABLE product
+(
+  id   INTEGER,
+  code CHARACTER VARYING(255),
+  name CHARACTER VARYING(500),
+  PRIMARY KEY (id)
+);
